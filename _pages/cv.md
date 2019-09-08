@@ -11,30 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. (Hons) in Physics, Sri Venkateswara College, University of Delhi - India, 2011
+* M.Sc. in Physics, Indian Institute of Technology Kanpur (IITK) - India, 2014
+* Ph.D in Structure and Dynamics of Scientific Collaboration Networks, Indian Institute of Technology Gandhingar (IITGN) - India, 2020 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python Programming 
+* C++ - Basic level
+* NetLogo - Intermediate level
+* LISP - Basic Level
 
 Publications
 ======
@@ -56,4 +42,24 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Lead the Legislative wing of Student Governance as the \textbf{Convener} for Student Senate (2016-17) at Indian Institute of Technology Gandhinagar.
+ 
+* Been the member of Student Senate as PhD Senator between (2015-17) at Indian Institute of Technology Gandhinagar. 
+ 
+* Been the member of \textbf{SSAC} Disciplinary Action Committee at Indian Institute of Technology Gandhinagarfor the period of 2 yrs (2015-17).
+ 
+* Helped in designing and maintaining the Physics discipline webpage using Wordpress for the year 2014.
+ 
+* Designed, built and performed Science experiments for the National Science day at Indian Institute of Technology Gandhinagar. The program was an initiative from our institute to spread awareness in Science in general public. 
+ 
+* Volunteered for the NYASA at Indian Institute of Technology Gandhinagar - an initiative to provide free education to kids from rural areas specially the kids from families of daily wage workers.
+
+Courses Undertaken
+=======
+
+Mathematical Physics, Advanced Quantum Mechanics, Statistical Physics , Condensed Matter Physics, Classical Field Theory,  Computational Physics, Introduction to Artificial Intelligence, Sante-Fe Institute Complex Systems Winter School 2015, Introduction to Agent Based Modelling-2019 by Complexity Explorer.  
+
+Sports
+========
+
+Participated in CCL(Cricket Combat League), intra-college Cricket tournament at Indian Institute of Technology Gandhinagar for 3 years. Member of winning team in 2015. Lead the team (Green 'Gators) as captain in 2016. Active Participant in intra-college Sports Events at Indian Institute of Technology Gandhinagar.   
