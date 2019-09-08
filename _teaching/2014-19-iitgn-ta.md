@@ -9,7 +9,7 @@ location: "Gandhinagar, India"
 
 ---
 
-List of Courses for which I was the teaching assistant. This required me to take tutorial classes and grade the assignments. 
+List of Courses for which I was the teaching assistant. This required me to take tutorial classes and grade the assignments and quizes. 
 
 * Condensed Matter Physics - Masters Course 
 * Introduction to Quantum Mechanics - Undergraduate Course
