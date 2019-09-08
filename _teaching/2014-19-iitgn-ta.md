@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate and Masters courses"
 permalink: /teaching/2014-19-iitgn-ta
 venue: "Indian Institute of Technology Gandhinagar, Physics Discipline"
-date: 2014-2019
+# date: 
 location: "Gandhinagar, India"
 
 ---
