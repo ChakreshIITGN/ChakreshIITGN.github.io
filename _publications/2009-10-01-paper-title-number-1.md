@@ -1,7 +1,7 @@
 ---
 title: "Structure and Evolution of Indian Physics Co-authorship Networks"
 collection: publications
-permalink: /publication/2019-01-05-paper-title-struct-evol-ind
+permalink: /publication/2019-01-05-paper-1
 excerpt: 'In this paper we trace the evolution of Indian physics community from 1919 to 2013 by analyzing the co-authorship network constructed from papers published by authors in India in AmericanPhysical Society (APS) journals '
 date: 2019-01-05
 venue: 'Scientometrics'
