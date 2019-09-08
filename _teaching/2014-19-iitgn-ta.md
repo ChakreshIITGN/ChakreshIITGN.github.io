@@ -6,7 +6,9 @@ permalink: /teaching/2014-19-iitgn-ta
 venue: "Indian Institute of Technology Gandhinagar, Physics Discipline"
 date: 2014-2019
 location: "Gandhinagar, India"
+
 ---
+
 List of Courses for which I was the teaching assistant. This required me to take tutorial classes and grade the assignments. 
 
 * Condensed Matter Physics - Masters Course 
