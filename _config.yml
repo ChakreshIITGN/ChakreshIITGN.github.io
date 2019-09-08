@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My Webpage"
+title                    : "Chakresh"
 title_separator          : "-"
 name                     : &name "Chakresh Kr. Singh"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chakresh Kr. Singh"
   avatar           : "profile.png"
-  bio              : "Complex Networks, Non-Linear Dynamics, ABM and Fun"
+  bio              : "Complex Networks, Non-Linear Dynamics, Agent Based Modelling and Machine Learning"
   location         : "Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
