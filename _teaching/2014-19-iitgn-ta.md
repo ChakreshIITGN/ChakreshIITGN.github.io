@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate and Masters courses"
+permalink: /teaching/2014-19-iitgn-ta
+venue: "Indian Institute of Technology Gandhinagar, Physics Discipline"
+date: 2014-2019
+location: "Gandhinagar, India"
+
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+List of Courses for which I was the teaching assistant. This required me to take tutorial classes and grade the assignments. 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Condensed Matter Physics - Masters Course 
+* Introduction to Quantum Mechanics - Undergraduate Course
+* Quantum Mechanics - Masters Course
+* Physics Laboratory - Masters Course
