@@ -1,12 +1,12 @@
 ---
 title: "Structure and Evolution of Indian Physics Co-authorship Networks"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2019-01-05-paper-title-struct-evol-ind
 excerpt: 'In this paper we trace the evolution of Indian physics community from 1919 to 2013 by analyzing the co-authorship network constructed from papers published by authors in India in AmericanPhysical Society (APS) journals '
 date: 2019-01-05
 venue: 'Scientometrics'
 paperurl: 'https://doi.org/10.1007/s11192-018-02999-5'
-citation: 'Singh, C.K. & Jolad, S. Scientometrics (2019) 118: 385. https://doi.org/10.1007/s11192-018-02999-5'
+
 ---
 In this paper we trace the evolution of Indian physics community from 1919 to 2013 by analyzing theco-authorship network constructed from papers published by authors in India in AmericanPhysical Society (APS) journals 
 
