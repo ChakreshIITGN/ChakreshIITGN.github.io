@@ -9,4 +9,10 @@ author_profile: true
 
 {% include base_path %}
 
-## Scientific Collaboration Networks : 
+# Dynamics of Scientific Collaboration Networks : 
+
+## Interdependent Citation and Co-authorship Networks : 
+
+## Information Flow in the Citation Networks : 
+
+
