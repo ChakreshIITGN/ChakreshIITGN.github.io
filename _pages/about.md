@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello :smile:, If you are on this webpage you are interested to know about me :blush:. Should you choose to read further -- 
+Hello :smile:, 
 
 I am a Ph.D. candidate in Physics Discipline at the Indian Institute of Technology, Gandhinagar (IITGN) - India. I work in the field of Complex Networks. In particular, I am trying to understand the temporal changes in structure and dynamics of scientific collaboration networks. I am also interested in problems related to non linear dynamics, Agent Based Modelling of complex systems and recently I have a new found interest in looking for Machine Learning applications in the field of Network Science. 
 
