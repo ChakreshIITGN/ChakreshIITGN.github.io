@@ -9,10 +9,14 @@ author_profile: true
 
 {% include base_path %}
 
-# Dynamics of Scientific Collaboration Networks : 
+## Dynamics of Scientific Collaboration Networks : 
 
-## Interdependent Citation and Co-authorship Networks : 
+### Empirical Analysis of Temporal Networks : 
 
-## Information Flow in the Citation Networks : 
+### Interdependent Citation and Co-authorship Networks : 
 
+## Information Flow in the Directed Networks : 
 
+## Generative Models of Complex Networks : 
+
+## Agent Based Models : 
