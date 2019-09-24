@@ -13,9 +13,9 @@ Studying of Complex Systems and Network Science has overtime emerged as one of t
 
 My research interest is in understanding the structure and properties of temporal networks. Based on my skill-set and experience so far, I can classify my interests into following categories. 
 
-* Empirical Analysis and Visualization of Evolving Networks and Communtiy Structures
+* Empirical Analysis and Visualization of Evolving Networks and Community Structures
 
-* Interdependence and co-evolution in Multilayerd Networks
+* Interdependence and co-evolution in Multi-layered Networks
 
 * Information Diffusion in Networks
 
