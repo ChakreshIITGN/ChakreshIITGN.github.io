@@ -23,4 +23,4 @@ My research interest broadly is in understanding the structure and properties of
 
 * Agent Based Modelling to study Complex Systems
 
-Besides these I have recently started to use Natural Language Processing and Topic Modelling methods to study evolution of Scientific domains overtime. I am also interested in using game theory to understanding the evolution of interactions in complex networks and machine learning applications in network science specifically for growth and life time of evolving community structures. 
+Besides these I have recently started to use Natural Language Processing and Topic Modelling methods to study evolution of scientific domains overtime. I am also interested in using game theory to understanding the evolution of interactions in complex networks and machine learning applications in network science specifically for growth and life time of evolving community structures. 
