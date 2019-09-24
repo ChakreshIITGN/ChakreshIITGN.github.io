@@ -13,14 +13,14 @@ Studying of Complex Systems and Network Science has overtime emerged as one of t
 
 My research interest is in understanding the structure and properties of temporal networks. Based on my skill-set and experience so far, I can classify my interests into following categories. 
 
-* Empirical Analysis and Visualization of Evolving Networks and Community Structures
+* Empirical analysis and visualization of evolving networks and community structures
 
-* Interdependence and co-evolution in Multi-layered Networks
+* Interdependence and co-evolution in multi-layered networks
 
-* Information Diffusion in Networks
+* Information diffusion in networks
 
-* Generative Models for Complex Networks 
+* Generative models for complex networks 
 
-* Agent Based Modelling to study Complex Systems
+* Agent Based Modelling to study complex systems
 
 Besides these I have recently started to use Natural Language Processing and Topic Modelling methods to study evolution of scientific domains overtime. I am also interested in using game theory to understanding the evolution of interactions in complex networks and machine learning applications in network science specifically for growth and life time of evolving community structures. 
