@@ -11,7 +11,7 @@ author_profile: true
 
 Studying of Complex Systems and Network Science has overtime emerged as one of the top research areas in Modern Sciences. Complex systems find their place in a wide spectrum of fields from Physics, Computer Science, Biology, Social Sciences, Mathematics etc. This provides a huge platform for researchers from varied domains to come together and collaborate on many interesting real world problems. The motivation is to find and understand the underlying universal laws, emergent patterns, and dynamical properties in complex systems. 
 
-My research interest broadly is in understanding the structure and properties of temporal networks. Based on my skill-set and experience so far, I can classify my interests into following categories. 
+My research interest is in understanding the structure and properties of temporal networks. Based on my skill-set and experience so far, I can classify my interests into following categories. 
 
 * Empirical Analysis and Visualization of Evolving Networks and Communtiy Structures
 
