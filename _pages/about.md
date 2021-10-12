@@ -10,7 +10,7 @@ redirect_from:
 
 Hello :smile:, 
 
-I am a Ph.D. candidate in Physics Discipline at the Indian Institute of Technology, Gandhinagar (IITGN) - India. I work in the field of Complex Networks. In particular, I am trying to understand the temporal changes in structure and dynamics of scientific collaboration networks. I am also interested in problems related to non linear dynamics, Agent Based Modelling of complex systems and recently I have a new found interest in looking for Machine Learning applications in the field of Network Science. 
+Currently I am a post-doctoral fellow at the Centre for Interdisciplinary Research (CRI) Paris. I did my Ph.D. in Physics Discipline at the Indian Institute of Technology, Gandhinagar (IITGN) - India. I work in the field of Complex Networks. In particular, I am trying to understand the temporal dynamics of the evolution od scientific fields and that of corresponding collaboration networks. I am also interested in problems related to non linear dynamics, Agent Based Modelling of complex systems and recently I have a new found interest in Machine Learning applications in the field of Network Science. 
 
 I developed my interest in Network Science during my Masters. The diverse applicability of tools and methods from Network Science to a wide spectrum of real world problems is what motivates me the most. To the best of my knowledge, field of Complex Networks is the best example of highly collaborative and interdisciplinary fields of study. Not only does it lets us take up challenging problems, it has also helped in expanding the frontiers of research in many domains. 
 
