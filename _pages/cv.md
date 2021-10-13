@@ -13,7 +13,8 @@ Education
 ======
 * B.Sc. (Hons) in Physics, Sri Venkateswara College, University of Delhi - India, 2011
 * M.Sc. in Physics, Indian Institute of Technology Kanpur (IITK) - India, 2014
-* Ph.D in Structure and Dynamics of Scientific Collaboration Networks, Indian Institute of Technology Gandhingar (IITGN) - India, 2020 (expected)
+* Ph.D in Structure and Dynamics of Scientific Collaboration Networks, Indian Institute of Technology Gandhingar (IITGN) - India, 2021
+* Post-Doc at University of Paris, Center for Research and Interdisciplinarity (CRI), Paris, 2020-present
 
 Skills
 ======
