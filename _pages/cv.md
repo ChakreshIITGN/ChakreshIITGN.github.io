@@ -42,6 +42,8 @@ Teaching
   
 Service and leadership
 ======
+* Organizing Member of the Winter Workshop of Complex System [WWCS 2022](https://wwcs2022.github.io/)
+
 * Lead the Legislative wing of Student Governance as the \textbf{Convener} for Student Senate (2016-17) at Indian Institute of Technology Gandhinagar.
  
 * Member of Student Senate as PhD Senator between (2015-17) at Indian Institute of Technology Gandhinagar. 
