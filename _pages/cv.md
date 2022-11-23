@@ -18,9 +18,12 @@ Education
 
 Skills
 ======
-* Python Programming 
+
+* Data analysis and statistical modelling
+* Python
 * C++ - Basic level
 * NetLogo - Intermediate level
+* Javascript - Basic level
 
 Publications
 ======
