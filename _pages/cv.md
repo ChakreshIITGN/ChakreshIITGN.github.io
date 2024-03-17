@@ -9,21 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
+Experience
+========
+
+* Post-Doc: INSERM, University of Paris, Center for Research and Interdisciplinarity (CRI), Paris, 2020-2023. 
+
 Education
 ======
-* B.Sc. (Hons) in Physics, Sri Venkateswara College, University of Delhi - India, 2011
-* M.Sc. in Physics, Indian Institute of Technology Kanpur (IITK) - India, 2014
-* Ph.D in Structure and Dynamics of Scientific Collaboration Networks, Indian Institute of Technology Gandhingar (IITGN) - India, 2021
-* Post-Doc at University of Paris, Center for Research and Interdisciplinarity (CRI), Paris, 2020-present
+
+* Ph.D : Structure and Dynamics of Scientific Collaboration Networks, Indian Institute of Technology Gandhingar (IITGN) - India, 2021
+* M.Sc : Physics, Indian Institute of Technology Kanpur (IITK) - India, 2014
+* B.Sc : (Hons) Physics, Sri Venkateswara College, University of Delhi - India, 2011
 
 Skills
 ======
 
 * Data analysis and statistical modelling
-* Python
-* C++ - Basic level
-* NetLogo - Intermediate level
-* Javascript - Basic level
+* Python : numpy, pandas, scikit-learn, seaborn, pymc, networkx, nltk, spacy
+* Machine Learning : Regression, Classification, Random Forests, Clustering
+* Natural Language Processing
+* Deep Learning : CNN, RNN, LLMs+RAG, LSTM
+* Big Data Analytics : Postgresql, SQL, MongoDB, neo4j, Apache, Hadoop, PySpark
+* NetLogo - Intermediate 
+* CSS, HTML, React, Javascript - Introductory
+  
 
 Publications
 ======
@@ -60,7 +69,7 @@ Service and leadership
 Courses Undertaken
 =======
 
-Mathematical Physics, Advanced Quantum Mechanics, Statistical Physics , Condensed Matter Physics, Classical Field Theory,  Computational Physics, Introduction to Artificial Intelligence, Sante-Fe Institute Complex Systems Winter School 2015, Introduction to Agent Based Modelling-2019 by Complexity Explorer.  
+Mathematical Physics, Advanced Quantum Mechanics, Statistical Physics, Condensed Matter Physics, Classical Field Theory,  Computational Physics, Introduction to Artificial Intelligence, Sante-Fe Institute Complex Systems Winter School 2015, Introduction to Agent Based Modelling-2019 by Complexity Explorer, DeepLearning Specialization - DeepLearning.AI, Machine Learning Specialization - IBM. Quantum-Computing Fundamentals - IBM.
 
 Sports
 ========
